@@ -1,0 +1,38 @@
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.exe
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.deps.json
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.runtimeconfig.json
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.runtimeconfig.dev.json
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.dll
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.pdb
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.Views.dll
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\bin\Debug\netcoreapp3.1\Hellow App.Views.pdb
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.csproj.AssemblyReference.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.AssemblyInfoInputs.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.AssemblyInfo.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.csproj.CoreCompileInputs.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.MvcApplicationPartsAssemblyInfo.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.RazorAssemblyInfo.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.RazorAssemblyInfo.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\staticwebassets\Hellow App.StaticWebAssets.Manifest.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\staticwebassets\Hellow App.StaticWebAssets.xml
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hellow App.styles.css
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.TagHelpers.input.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.TagHelpers.output.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.RazorCoreGenerate.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.RazorTargetAssemblyInfo.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.RazorTargetAssemblyInfo.cs
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.Views.pdb
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.dll
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.pdb
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.genruntimeconfig.cache
+E:\Documents\AzureTranining\Demo\Hellow App\Hellow App\obj\Debug\netcoreapp3.1\Hellow App.csproj.CopyComplete
